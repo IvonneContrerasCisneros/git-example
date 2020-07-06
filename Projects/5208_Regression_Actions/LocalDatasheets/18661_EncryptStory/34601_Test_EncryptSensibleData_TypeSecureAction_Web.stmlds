@@ -1,0 +1,140 @@
+{
+  "TestCase": {
+    "TempId": 18661,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Name": "Test_EncryptSensibleData_TypeSecureAction_Web",
+    "Created": null,
+    "Modified": null
+  },
+  "Parameters": [
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "1",
+          "ParameterId": 100527,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 34601,
+      "IsEncrypted": false,
+      "Name": "Iteration",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "0",
+          "ParameterId": 100528,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 34601,
+      "IsEncrypted": false,
+      "Name": "Skip",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "IuCwxWDI4pO/5nAOBurvMQ==",
+          "ParameterId": 100529,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 34601,
+      "IsEncrypted": true,
+      "Name": "DT_test2",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "",
+          "ParameterId": 100530,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 34601,
+      "IsEncrypted": false,
+      "Name": "DT_test1",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "",
+          "ParameterId": 100531,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 34601,
+      "IsEncrypted": false,
+      "Name": "DT_test",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "",
+          "ParameterId": 100532,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 34601,
+      "IsEncrypted": false,
+      "Name": "DT_test3",
+      "Created": null,
+      "Modified": null
+    }
+  ],
+  "Name": "Test_EncryptSensibleData_TypeSecureAction_Web",
+  "Created": null,
+  "Modified": null
+}
