@@ -1,0 +1,966 @@
+{
+  "Id": null,
+  "ProjectId": 5208,
+  "Name": "Default",
+  "Parameters": [
+    {
+      "Id": 19799,
+      "ProjectId": 5208,
+      "Key": "GDT_1a",
+      "Value": "bt8Bnu1v802yRe7HM8Nj1A==",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 19663,
+      "ProjectId": 5208,
+      "Key": "GDT_1Test",
+      "Value": "VvdlquDQJe8k8PFlkWL1cELP0ayAgh19YoOv9vFGRaNJckRZk7ueATaNxigl3y+T",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15678,
+      "ProjectId": 5208,
+      "Key": "GDT_a",
+      "Value": "ctrl+a+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12515,
+      "ProjectId": 5208,
+      "Key": "GDT_alertGeText",
+      "Value": "0",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 18660,
+      "ProjectId": 5208,
+      "Key": "GDT_alertText",
+      "Value": "//*[@text='We were unable to locate this account. Please check the accuracy of the information.']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12501,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabet",
+      "Value": "ap_password_check",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14534,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabetBDDMobile",
+      "Value": "alphabet:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12530,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabetBDDWeb",
+      "Value": "alphabet:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12498,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabetic",
+      "Value": "ap_customer_name",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14531,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabeticBDDMobile",
+      "Value": "alphabetic:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12527,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabeticBDDWeb",
+      "Value": "alphabetic:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12510,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabeticDesktop",
+      "Value": "alphabetic:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14523,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabeticMobile",
+      "Value": "alphabetic:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12494,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabeticWeb",
+      "Value": "alphabetic:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14526,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabetMobile",
+      "Value": "alphabet:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12496,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabetWeb",
+      "Value": "alphabet:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12513,
+      "ProjectId": 5208,
+      "Key": "GDT_alphabetWebDesktop",
+      "Value": "alphabet:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12499,
+      "ProjectId": 5208,
+      "Key": "GDT_alphanumeric",
+      "Value": "ap_email",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14532,
+      "ProjectId": 5208,
+      "Key": "GDT_alphanumericBDDMobile",
+      "Value": "alphanumeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12528,
+      "ProjectId": 5208,
+      "Key": "GDT_alphanumericBDDWeb",
+      "Value": "alphanumeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12511,
+      "ProjectId": 5208,
+      "Key": "GDT_alphanumericDesktop",
+      "Value": "alphanumeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14524,
+      "ProjectId": 5208,
+      "Key": "GDT_alphanumericMobile",
+      "Value": "alphanumeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12495,
+      "ProjectId": 5208,
+      "Key": "GDT_alphanumericWeb",
+      "Value": "alphanumeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15654,
+      "ProjectId": 5208,
+      "Key": "GDT_alt",
+      "Value": "alt+f4",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15655,
+      "ProjectId": 5208,
+      "Key": "GDT_arrowDown",
+      "Value": "arrow_down+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15656,
+      "ProjectId": 5208,
+      "Key": "GDT_arrowLeft",
+      "Value": "arrow_left+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15657,
+      "ProjectId": 5208,
+      "Key": "GDT_arrowRight",
+      "Value": "arrow_right+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15658,
+      "ProjectId": 5208,
+      "Key": "GDT_arrowUp",
+      "Value": "arrow_up+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15659,
+      "ProjectId": 5208,
+      "Key": "GDT_backspace",
+      "Value": "backspace+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12521,
+      "ProjectId": 5208,
+      "Key": "GDT_BDDMouseOver",
+      "Value": "txtUsername",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15521,
+      "ProjectId": 5208,
+      "Key": "GDT_BDDMouseOverAndClick",
+      "Value": "txtUsername~btnLogin",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 13524,
+      "ProjectId": 5208,
+      "Key": "GDT_BDDMouseOverAndClick1",
+      "Value": "3",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15679,
+      "ProjectId": 5208,
+      "Key": "GDT_c",
+      "Value": "ctrl+c+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15697,
+      "ProjectId": 5208,
+      "Key": "GDT_Child",
+      "Value": "Child",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16659,
+      "ProjectId": 5208,
+      "Key": "GDT_ClearDesktop",
+      "Value": "//*[@ClassName='SearchEditBox' and @Name='Search Box']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 17661,
+      "ProjectId": 5208,
+      "Key": "GDT_ClearMobile",
+      "Value": "//*[@resource-id='com.mobiquityinc.otsuka.mind_1:id/email']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16660,
+      "ProjectId": 5208,
+      "Key": "GDT_ClickDestop",
+      "Value": "File Explorer",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 17659,
+      "ProjectId": 5208,
+      "Key": "GDT_ClickMobile",
+      "Value": "//*[@resource-id=\"com.android.permissioncontroller:id/permission_allow_always_button\"]",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15661,
+      "ProjectId": 5208,
+      "Key": "GDT_control",
+      "Value": "control+a+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15660,
+      "ProjectId": 5208,
+      "Key": "GDT_ctrl",
+      "Value": "ctrl+a+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15680,
+      "ProjectId": 5208,
+      "Key": "GDT_d",
+      "Value": "ctrl+d+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15662,
+      "ProjectId": 5208,
+      "Key": "GDT_delete",
+      "Value": "delete+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15681,
+      "ProjectId": 5208,
+      "Key": "GDT_e",
+      "Value": "ctrl+e+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15663,
+      "ProjectId": 5208,
+      "Key": "GDT_end",
+      "Value": "end+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15653,
+      "ProjectId": 5208,
+      "Key": "GDT_enter",
+      "Value": "enter+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 18663,
+      "ProjectId": 5208,
+      "Key": "GDT_errorMessage",
+      "Value": "//*[@text='Registration Error']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15665,
+      "ProjectId": 5208,
+      "Key": "GDT_esc",
+      "Value": "esc+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15682,
+      "ProjectId": 5208,
+      "Key": "GDT_f",
+      "Value": "ctrl+f+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15670,
+      "ProjectId": 5208,
+      "Key": "GDT_f1",
+      "Value": "f1+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15675,
+      "ProjectId": 5208,
+      "Key": "GDT_f10",
+      "Value": "shift_f10+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15676,
+      "ProjectId": 5208,
+      "Key": "GDT_f11",
+      "Value": "f11+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15677,
+      "ProjectId": 5208,
+      "Key": "GDT_f12",
+      "Value": "f12+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15671,
+      "ProjectId": 5208,
+      "Key": "GDT_f2",
+      "Value": "f2+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15672,
+      "ProjectId": 5208,
+      "Key": "GDT_f4",
+      "Value": "ctrl+f4+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15673,
+      "ProjectId": 5208,
+      "Key": "GDT_f5",
+      "Value": "f5+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15674,
+      "ProjectId": 5208,
+      "Key": "GDT_f6",
+      "Value": "f6+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15683,
+      "ProjectId": 5208,
+      "Key": "GDT_g",
+      "Value": "ctrl+g+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 13523,
+      "ProjectId": 5208,
+      "Key": "GDT_GetPropertyMobile",
+      "Value": "//*[@resource-id=\"com.mobiquityinc.otsuka.mind_1:id/create_account\"]",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 13521,
+      "ProjectId": 5208,
+      "Key": "GDT_GetPropertyWeb",
+      "Value": "//font[contains(text(),\"Atlanta\")]",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15684,
+      "ProjectId": 5208,
+      "Key": "GDT_h",
+      "Value": "ctrl+h+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12489,
+      "ProjectId": 5208,
+      "Key": "GDT_HighlightWeb",
+      "Value": "btnLogin",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15666,
+      "ProjectId": 5208,
+      "Key": "GDT_home",
+      "Value": "home+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15664,
+      "ProjectId": 5208,
+      "Key": "GDT_insert",
+      "Value": "shift+insert+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15685,
+      "ProjectId": 5208,
+      "Key": "GDT_j",
+      "Value": "ctrl+j+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15686,
+      "ProjectId": 5208,
+      "Key": "GDT_K",
+      "Value": "ctrl+K+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15687,
+      "ProjectId": 5208,
+      "Key": "GDT_l",
+      "Value": "ctrl+l+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12487,
+      "ProjectId": 5208,
+      "Key": "GDT_login",
+      "Value": "btnLogin",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15698,
+      "ProjectId": 5208,
+      "Key": "GDT_Main",
+      "Value": "Main",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12503,
+      "ProjectId": 5208,
+      "Key": "GDT_MouseOverAndClick",
+      "Value": "3",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12504,
+      "ProjectId": 5208,
+      "Key": "GDT_MouseOverAndClick1",
+      "Value": "txtUsername~btnLogin",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12502,
+      "ProjectId": 5208,
+      "Key": "GDT_MouseOverAndClickWeb",
+      "Value": "txtUsername~btnLogin",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12490,
+      "ProjectId": 5208,
+      "Key": "GDT_MouseOverWeb",
+      "Value": "menu_pim_viewMyDetails",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12488,
+      "ProjectId": 5208,
+      "Key": "GDT_multiply",
+      "Value": "//*[@ClassName='Button' and @Name='Multiply by']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15688,
+      "ProjectId": 5208,
+      "Key": "GDT_n",
+      "Value": "ctrl+n+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14528,
+      "ProjectId": 5208,
+      "Key": "GDT_NavigateBDDMobile",
+      "Value": "com.android.vending~com.google.android.finsky.activities.MainActivity",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 13525,
+      "ProjectId": 5208,
+      "Key": "GDT_NavigateMobile",
+      "Value": "com.android.vending~com.google.android.finsky.activities.MainActivity",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 18661,
+      "ProjectId": 5208,
+      "Key": "GDT_negation",
+      "Value": "NOT",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12500,
+      "ProjectId": 5208,
+      "Key": "GDT_numeric",
+      "Value": "ap_password",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14533,
+      "ProjectId": 5208,
+      "Key": "GDT_numericBDDMobile",
+      "Value": "numeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12529,
+      "ProjectId": 5208,
+      "Key": "GDT_numericBDDWeb",
+      "Value": "numeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15522,
+      "ProjectId": 5208,
+      "Key": "GDT_numericDesktop",
+      "Value": "numeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14525,
+      "ProjectId": 5208,
+      "Key": "GDT_numericMobile",
+      "Value": "numeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12497,
+      "ProjectId": 5208,
+      "Key": "GDT_numericWeb",
+      "Value": "numeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12512,
+      "ProjectId": 5208,
+      "Key": "GDT_numericWebDesktop",
+      "Value": "numeric:10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 17662,
+      "ProjectId": 5208,
+      "Key": "GDT_ObjectEnabled",
+      "Value": "NOT",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15689,
+      "ProjectId": 5208,
+      "Key": "GDT_p",
+      "Value": "ctrl+p+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 19800,
+      "ProjectId": 5208,
+      "Key": "GDT_password",
+      "Value": "x7B/B/LAalrTajiIYSPeNg==",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15690,
+      "ProjectId": 5208,
+      "Key": "GDT_r",
+      "Value": "ctrl+r+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12519,
+      "ProjectId": 5208,
+      "Key": "GDT_RightClickOnObjectDesktop",
+      "Value": "TrayClockWClass",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12520,
+      "ProjectId": 5208,
+      "Key": "GDT_RightClickOnObjectWeb",
+      "Value": "menu_pim_viewMyDetails",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16653,
+      "ProjectId": 5208,
+      "Key": "GDT_SelectListByTextIfValueExists",
+      "Value": "Option2",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16654,
+      "ProjectId": 5208,
+      "Key": "GDT_SelectListByTextIfValueExists2",
+      "Value": "Option4",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16655,
+      "ProjectId": 5208,
+      "Key": "GDT_SelectListByTextValue",
+      "Value": "//select[@id='dropdown-class-example']/option",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15667,
+      "ProjectId": 5208,
+      "Key": "GDT_shift",
+      "Value": "shift+insert+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 18662,
+      "ProjectId": 5208,
+      "Key": "GDT_skipSteps",
+      "Value": "executenextSteps:1",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15668,
+      "ProjectId": 5208,
+      "Key": "GDT_space",
+      "Value": "space+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15691,
+      "ProjectId": 5208,
+      "Key": "GDT_t",
+      "Value": "ctrl+t+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15669,
+      "ProjectId": 5208,
+      "Key": "GDT_tab",
+      "Value": "tab+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 13522,
+      "ProjectId": 5208,
+      "Key": "GDT_TargetObject",
+      "Value": "Name,Documents",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15523,
+      "ProjectId": 5208,
+      "Key": "GDT_test",
+      "Value": "11",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16656,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeAction",
+      "Value": "package-origin-hp-package",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16657,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeActionWeb",
+      "Value": "Mexico",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14529,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeBDDMobile",
+      "Value": "test@hotmail.com",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12522,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeBDDWeb",
+      "Value": "Mexico",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12523,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeBDDWeb1",
+      "Value": "package-origin-hp-package",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12506,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeDesktop",
+      "Value": "Text",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 16658,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeIfValueExists",
+      "Value": "ap_customer_name",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14521,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeMobile",
+      "Value": "test@hotmail.com",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12514,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeRandomValueDesk",
+      "Value": "//*[@LocalizedControlType='Edit Box' and @ClassName='NetUITextbox']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14527,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeRandomValueMobile",
+      "Value": "//*[@resource-id='com.mobiquityinc.otsuka.mind_1:id/email']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12525,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeSecureBDDWeb",
+      "Value": "tutorial",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12508,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeSecureDesktop",
+      "Value": "Text",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12509,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeSecureValueDesktop",
+      "Value": "//*[@ClassName='SearchEditBox' and @Name='Search Box']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12492,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeSecureWeb",
+      "Value": "tutorial",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12493,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeSecureWeb1",
+      "Value": "//input[@name='userName']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12526,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeSecureWeb2",
+      "Value": "//input[@type='password']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12507,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeValueDesktop",
+      "Value": "//*[@ClassName='SearchEditBox' and @Name='Search Box']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14522,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeValueMobile",
+      "Value": "//*[@resource-id='com.mobiquityinc.otsuka.mind_1:id/email']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12491,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeWeb",
+      "Value": "Mexico",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12531,
+      "ProjectId": 5208,
+      "Key": "GDT_TypeWeb1",
+      "Value": "package-origin-hp-package",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15692,
+      "ProjectId": 5208,
+      "Key": "GDT_u",
+      "Value": "ctrl+u+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 11487,
+      "ProjectId": 5208,
+      "Key": "GDT_url",
+      "Value": "www.google.com",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 11488,
+      "ProjectId": 5208,
+      "Key": "GDT_urlDesktop",
+      "Value": "C:\\Windows\\System32\\calc.exe",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 11489,
+      "ProjectId": 5208,
+      "Key": "GDT_urlGherkinWeb",
+      "Value": "https://demoqa.com/",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 11490,
+      "ProjectId": 5208,
+      "Key": "GDT_urlHybrid",
+      "Value": "https://demoqa.com/",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15693,
+      "ProjectId": 5208,
+      "Key": "GDT_v",
+      "Value": "ctrl+v+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 18659,
+      "ProjectId": 5208,
+      "Key": "GDT_verifyText",
+      "Value": "//*[@text=\"1\"]",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 19662,
+      "ProjectId": 5208,
+      "Key": "GDT_verifyTextValue",
+      "Value": "//*[@resource-id=\"com.soundcloud.android:id/authHeadline\"]",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15694,
+      "ProjectId": 5208,
+      "Key": "GDT_w",
+      "Value": "ctrl+w+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 14530,
+      "ProjectId": 5208,
+      "Key": "GDT_waitBDDMobile",
+      "Value": "10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12524,
+      "ProjectId": 5208,
+      "Key": "GDT_waitBDDWeb",
+      "Value": "5",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12517,
+      "ProjectId": 5208,
+      "Key": "GDT_waitDesktop",
+      "Value": "5",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12518,
+      "ProjectId": 5208,
+      "Key": "GDT_waitMobile",
+      "Value": "10",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12516,
+      "ProjectId": 5208,
+      "Key": "GDT_waitWeb",
+      "Value": "5",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15695,
+      "ProjectId": 5208,
+      "Key": "GDT_x",
+      "Value": "ctrl+x+",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 12505,
+      "ProjectId": 5208,
+      "Key": "GDT_Xpath",
+      "Value": "//*[@ClassName='Button' and @Name='Three']",
+      "GlobalSheetId": null
+    },
+    {
+      "Id": 15696,
+      "ProjectId": 5208,
+      "Key": "GDT_z",
+      "Value": "ctrl+z+",
+      "GlobalSheetId": null
+    }
+  ]
+}
