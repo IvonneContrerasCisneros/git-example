@@ -1,0 +1,78 @@
+{
+  "TestCase": {
+    "TempId": 23548,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": null,
+    "ExternalDT": null,
+    "Name": "Google Sections CA Global DS",
+    "Created": null,
+    "Modified": null
+  },
+  "Parameters": [
+    {
+      "TempId": 0,
+      "Iterations": [],
+      "DataSheetId": 0,
+      "IsEncrypted": false,
+      "IsShared": false,
+      "Name": "DT_sdfsdfs",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": null,
+          "ParameterId": 0,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 0,
+      "IsEncrypted": false,
+      "IsShared": false,
+      "Name": "Iteration",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": null,
+          "ParameterId": 0,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 0,
+      "IsEncrypted": false,
+      "IsShared": false,
+      "Name": "Skip",
+      "Created": null,
+      "Modified": null
+    }
+  ],
+  "Name": null,
+  "Created": null,
+  "Modified": null
+}
